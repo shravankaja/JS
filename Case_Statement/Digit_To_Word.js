@@ -17,7 +17,7 @@ switch (number) {
         break;
     case "7": console.log("Seven");
         break;
-    case "8": console.log("Eight");
+    case "8": console.log("Eight"); 
         break;
     case "9": console.log("Nine");
         break;
